@@ -1,9 +1,3 @@
-# Mod_Portable_blueprint_Bugs-Issue
-Here you can report bugs or crashes caused by portable blueprints mod, helping to improve it.
-
-Use the [Issues tab](https://github.com/nimblonia/Mod_Portable_blueprint_Bugs-Issue/issues/new/choose) to report bugs (Please make sure to follow the bug report template and include relevant files if needed)
-
-
 # 🛠️ Bug Reports – Portable Blueprints
 
 Welcome!  

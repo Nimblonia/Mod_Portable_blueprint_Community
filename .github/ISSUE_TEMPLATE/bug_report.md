@@ -9,9 +9,11 @@ assignees: ''
 
 ## 🐛 Bug Title
 A short and clear title that describes what the bug does.
+"Title here"
 
 ## 📄 Bug Description
 A detailed explanation of what the bug is, what happens, and in what situation it occurs.
+"Description here"
 
 ## 📎 Attachments (logs, screenshots, videos)
 Please upload any helpful files such as:
@@ -28,5 +30,5 @@ If you don't know where to find it, check this path:
 <your Minecraft World folder>/portable_blueprints/blueprints/<your UUID>/<blueprint name>.bp
 
 ## 🔢 Version Information
-- Mod version:
-- Minecraft version:
+- Mod version: ""
+- Minecraft version: ""

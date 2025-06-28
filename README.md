@@ -7,7 +7,7 @@ This GitHub space serves **three purposes at once**:
 
 2. **Feature requests & design talk** – Use **Discussions** to suggest new mechanics, quality‑of‑life tweaks, balance changes, or just brainstorm fresh ideas. Even if a suggestion doesn’t fit the core vision of the mod, I’ll explain why so everyone understands the direction.
 
-3. **Community chat** – Feel free to treat Discussions as an open lounge: show off builds, share tips, or ask questions. Portable Blueprints exists because of players like you, so don’t be shy.
+3. **Community chat** – Feel free to treat Discussions as an open lounge: share tips or ask questions. Portable Blueprints exists because of players like you, so don’t be shy.
 
 > **Quick link to issue template:**  
 > 👉 [Click here to open a new bug report](https://github.com/nimblonia/Mod_Portable_blueprint_Community/issues/new/choose)

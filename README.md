@@ -15,13 +15,16 @@ This GitHub space serves **three purposes at once**:
 ---
 
 
-## 🔗📦 Mod Download
+## 🔗 Links
 
 - **CurseForge mod page:**  
   👉 https://www.curseforge.com/minecraft/mc-mods/portable-blueprints  
 
 - **My CurseForge profile:**  
   👤 https://www.curseforge.com/members/nimble/projects
+
+- **My Youtube channel:**  
+  ▶️ https://www.youtube.com/@Nimblonia
 
 ---
 

@@ -1,36 +1,29 @@
-# 🛠️ Bug Reports – Portable Blueprints
+#  Portable Blueprints – Community
 
-Welcome!  
-This is the official GitHub page to report bugs and issues for the **Portable Blueprints** mod.
+This GitHub space serves **three purposes at once**:  
 
-If you've found a bug, please open a new issue using the template provided.  
-You can also attach `.log`, `.txt`, `.png`, or `.bp` files if needed.
+1. **Bug reports** – Open an Issue when you find a crash, visual glitch, recipe error, or anything else that’s broken. The template will guide you, and you can attach logs (`latest.log`), screenshots, videos, or even blueprint files (`.bp`) found in  
+   `<minecraft-world-folder>/portable_blueprints/blueprints/<your UUID>/<name>.bp`.
 
+2. **Feature requests & design talk** – Use **Discussions** to suggest new mechanics, quality‑of‑life tweaks, balance changes, or just brainstorm fresh ideas. Even if a suggestion doesn’t fit the core vision of the mod, I’ll explain why so everyone understands the direction.
 
----
+3. **Community chat** – Feel free to treat Discussions as an open lounge: show off builds, share tips, or ask questions. Portable Blueprints exists because of players like you, so don’t be shy.
 
-
-## 📩 Report a Bug
-
-➡️ [Click here to open a new bug report](https://github.com/nimblonia/Mod_Portable_blueprint_Bugs-Issue/issues/new/choose)
-
-Please include:
-- A short and clear title
-- A detailed description of the bug
-- Screenshots, videos, log files, or blueprint files (`.bp`) if the issue is related to file generation  
-  *(You can find blueprint files in:*  
-  `<your Minecraft folder>/portable_blueprints/blueprints/<your UUID>/<blueprint name>.bp`*)
+> **Quick link to issue template:**  
+> 👉 [Click here to open a new bug report](https://github.com/nimblonia/Mod_Portable_blueprint_Community/issues/new/choose)
 
 ---
+
 
 ## 🔗📦 Mod Download
 
-**CurseForge mod page:**  
-👉 [Portable Blueprints on CurseForge](https://www.curseforge.com/minecraft/mc-mods/portable-blueprints)
+- **CurseForge mod page:**  
+  👉 https://www.curseforge.com/minecraft/mc-mods/portable-blueprints  
 
-**CurseForge profile (Nimble):**  
-👤 [Visit my profile](https://www.curseforge.com/members/nimble/projects)
+- **My CurseForge profile:**  
+  👤 https://www.curseforge.com/members/nimble/projects
 
 ---
 
-## 🙌 Thanks for helping improve the mod!
+🙌 **Thank you for helping shape and improve Portable Blueprints**, whether by hunting bugs, pitching features, or just hanging out and sharing your creations.  
+Your feedback keeps the mod focused, stable, and fun for everyone. 🛠️💡

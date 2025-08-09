@@ -22,7 +22,7 @@ Please upload any helpful files such as:
 You can drag and drop files here or use the GitHub "Attach files" button.
 
 ## 🧱 Blueprint File (optional)
-If you think the problem is related to how the blueprint file was generated after using the scanner, you can also attach that `.bp` file.
+If you think the problem is related to how the blueprint file was generated after using the scanner, you can also attach that `.bp` file. (GitHub doesn't allow uploading `.bp` files, so you'll need to change the extension from `.bp` to `.txt`.)
 
 If you don't know where to find it, check this path:
 <your Minecraft World folder>/portable_blueprints/blueprints/<your UUID>/<blueprint name>.bp

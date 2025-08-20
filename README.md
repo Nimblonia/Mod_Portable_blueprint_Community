@@ -18,10 +18,16 @@ This GitHub space serves **three purposes at once**:
 ## 🔗 Links
 
 - **CurseForge mod page:**  
-  👉 https://www.curseforge.com/minecraft/mc-mods/portable-blueprints  
+  👉 https://www.curseforge.com/minecraft/mc-mods/portable-blueprints
 
 - **My CurseForge profile:**  
   👤 https://www.curseforge.com/members/nimble/projects
+
+- **Modrinth mod page:**  
+  👉 https://modrinth.com/mod/portable-blueprints
+
+- **My Modrinth profile:**  
+  👤 https://modrinth.com/user/Nimblonia
 
 - **My Youtube channel:**  
   ▶️ https://www.youtube.com/@Nimblonia

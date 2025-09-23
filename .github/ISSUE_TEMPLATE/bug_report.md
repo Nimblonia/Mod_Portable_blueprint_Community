@@ -7,26 +7,17 @@ assignees: ''
 
 ---
 
-## 🐛 Bug Title
-A short and clear title that describes what the bug does.
-
-## 📄 Bug Description
-A detailed explanation of what the bug is, what happens, and in what situation it occurs.
+## 🐛 Description of Bug
 
 ## 📎 Attachments (logs, screenshots, videos)
-Please upload any helpful files such as:
-- Log files (`.txt`, `.log`)
-- Screenshots (`.png`, `.jpg`)
-- Video clips showing the bug
-
 You can drag and drop files here or use the GitHub "Attach files" button.
 
 ## 🧱 Blueprint File (optional)
 If you think the problem is related to how the blueprint file was generated after using the scanner, you can also attach that `.bp` file. (GitHub doesn't allow uploading `.bp` files, so you'll need to change the extension from `.bp` to `.txt`.)
 
 If you don't know where to find it, check this path:
-<your Minecraft World folder>/portable_blueprints/blueprints/<your UUID>/<blueprint name>.bp
+<your_Minecraft_World_folder>/portable_blueprints/blueprints/<your_UUID>/<blueprint_name>.bp
 
 ## 🔢 Version Information
 - Mod version:
-- Minecraft version:
+- Mods that may contribute to issue (Optional)
